@@ -1,0 +1,20 @@
+1.Complete Self Learning Videoes (Section 3 Lesson & Lesson 2) 
+
+2.List down DataTypes in JAVA (with wrapper class name , memory size) in tabular format
+
+3.write examples for increment and decrement operator 
+
+4.Write Java Code for below Programs 
+ a.factorial of a number 
+ b.ncr and npr
+
+5.Concepts about Strings
+
+6.What is String Pool 
+
+7.Write Java Code to read Number from user and print multiplication table of the number 
+
+8. Research and write which is faster Java or Python 
+
+
+ 
